@@ -14,7 +14,7 @@ featured: true
     "keyfile": "privkey.pem"
   },
   "token": "sdfj-2131023-dslfjsd-12321",
-  "domains": ["my-domain.duckdns.org"],
+  "domains": ["snowmassi.duckdns.org"],
   "seconds": 300
 }
 ```
